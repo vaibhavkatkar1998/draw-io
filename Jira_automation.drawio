@@ -46,11 +46,17 @@
         <mxCell id="uzxge04KYRy5R-QWPpid-14" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.multimediaai;" parent="uzxge04KYRy5R-QWPpid-12" vertex="1">
           <mxGeometry x="250" y="69.99999999999997" width="60" height="59.1" as="geometry" />
         </mxCell>
+        <mxCell id="y7FQ2Js1gXVT7M8eXXRd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uzxge04KYRy5R-QWPpid-12" source="uzxge04KYRy5R-QWPpid-15" target="uzxge04KYRy5R-QWPpid-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uzxge04KYRy5R-QWPpid-15" value="" style="swimlane;startSize=0;" parent="uzxge04KYRy5R-QWPpid-12" vertex="1">
           <mxGeometry x="20" y="60" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uzxge04KYRy5R-QWPpid-16" value="Webhook Trigger" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uzxge04KYRy5R-QWPpid-15" vertex="1">
           <mxGeometry x="30" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y7FQ2Js1gXVT7M8eXXRd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uzxge04KYRy5R-QWPpid-12" source="uzxge04KYRy5R-QWPpid-17" target="uzxge04KYRy5R-QWPpid-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzxge04KYRy5R-QWPpid-17" value="" style="swimlane;startSize=0;" parent="uzxge04KYRy5R-QWPpid-12" vertex="1">
           <mxGeometry x="220" y="60" width="120" height="110" as="geometry" />
